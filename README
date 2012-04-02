@@ -5,3 +5,5 @@ Instructions:
 1. Download LEMON: http://lemon.cs.elte.hu/trac/lemon/wiki/Downloads
 2. Build and install LEMON: http://lemon.cs.elte.hu/trac/lemon/wiki/InstallGuide
 3. Modify then run compile.m
+
+Licensed under GPLv2 for non-commercial research purposes only.
